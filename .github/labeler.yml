@@ -1,4 +1,4 @@
 version: 1
 labels:
 - label: master
-  branch: master
+  base-branch: master

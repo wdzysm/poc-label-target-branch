@@ -1,0 +1,3 @@
+feature: ['feature/*', 'feat/*']
+master1: master
+chore :hammer:: chore/*
