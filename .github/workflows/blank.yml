@@ -2,7 +2,7 @@ name: Label target branch
 
 on:
   pull_request:
-    branches: [ "opened", "reopened" ]
+    types: [ "opened", "reopened" ]
 jobs:
   build:
     runs-on: ubuntu-latest
